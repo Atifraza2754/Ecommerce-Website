@@ -1,0 +1,12 @@
+.custom-height {
+    height: 200px; /* Set your desired height */
+    object-fit: cover; /* Ensures the image covers the div while maintaining aspect ratio */
+}
+#name{
+  font-family: 'Times New Roman', Times, serif;
+  font-style:normal;
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+}
